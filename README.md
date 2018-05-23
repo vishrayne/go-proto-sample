@@ -1,7 +1,7 @@
 # go-proto-sample
 [![baby-gopher](https://raw.githubusercontent.com/drnic/babygopher-site/gh-pages/images/babygopher-logo-small.png)](http://www.babygopher.org)
 
-Just curious on how protocol buffers work based on [this](https://developers.google.com/protocol-buffers/docs/gotutorial) tutorial
+Just curious on how protocol buffers work and based on [this](https://developers.google.com/protocol-buffers/docs/gotutorial) tutorial
 
 # Prerequisite
 
@@ -18,3 +18,5 @@ Just curious on how protocol buffers work based on [this](https://developers.goo
 `$ go install github.com/vishrayne/go-proto-sample/cmd/go-proto-server` \
 `$ go install github.com/vishrayne/go-proto-sample/cmd/go-proto-mock-client`
 
+
+The CLI version is just a demo, I should make it more interactive by allowing to add/list items
